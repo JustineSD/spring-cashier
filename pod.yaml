@@ -7,7 +7,7 @@ metadata:
     name: spring-cashier
 spec:
   containers:
-    - image: juss2000/spring-cashier:v2
+    - image: paulnguyen/spring-cashier:v2
       name: spring-cashier
       ports:
         - containerPort: 8080
