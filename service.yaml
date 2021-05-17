@@ -5,7 +5,7 @@ metadata:
   namespace: default
 spec:
   type: NodePort
-  externalTrafficPolicy: local
+  externalTrafficPolicy: Local
   ports:
   - port: 8080
     targetPort: 8080 
