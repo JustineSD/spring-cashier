@@ -15,10 +15,10 @@ public class GreetingController {
       return "cards";
    }
 
-//    @RequestMapping(value = "/index")
-//    public String goIndex() {
-//       return "index";
-//   }
+    @RequestMapping(value = "/")
+    public String goIndex() {
+       return "test";
+   }
 
    @RequestMapping(value = "/home")
    public String goHome() {
