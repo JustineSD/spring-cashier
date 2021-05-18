@@ -2,8 +2,8 @@
 
 # Container
 
-ACCOUNT="paulnguyen"
-CONTAINER="spring-gumball"
+ACCOUNT="juss2000"
+CONTAINER="spring-cashier"
 VERSION="v2"
 
 # Shell Variables
